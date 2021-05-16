@@ -44,7 +44,7 @@ I believe that the best way to learn something is to teach it. For this reason I
 Writing technical and programming related articles on the famous blog website. [My blog!](https://medium.com/@codewithlek)
 
 # Find me on Social Media
-## [LinkedIn](https://www.linkedin.com/in/sara-hamlili/)
+## ![in](https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png)[LinkedIn](https://www.linkedin.com/in/sara-hamlili/)
 ##  [Twitter](https://twitter.com/CodeWithLek)
 ##  [Instagram](https://www.instagram.com/codewithlek/)
 
