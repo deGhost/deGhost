@@ -42,7 +42,7 @@ For my graduation project, I worked on presenting an ML solution to optimize the
 
 
 
-# <img src="https://www.pngitem.com/pimgs/b/297-2978988_blogging-png.png" width="30" /> Creating content online
+# <img src="https://drive.google.com/file/d/1YDubOdb4RycXqUQ2ballRVM__ch_s0Oe/view?usp=sharing" width="30" /> Creating content online
 ## <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" width="30" /> Youtube
 I believe that the best way to learn something is to teach it. For this reason I created a Youtube channel where I share programming related topics that I recently learned or I'm currently learning.  [Check my channel here!](https://www.youtube.com/channel/UCOilWFnZq8VitNeABQpzOGQ)
 
