@@ -1,7 +1,7 @@
 
 
 # <img src="https://cdn.pixabay.com/photo/2018/08/10/11/08/blog-3596548_960_720.png" width="70" /> Sara's Portfolio
-I'm a mobile and fron-end developer, passionate about technologies and problem solving. I enjoy to mix logic with creativity in my work. I'm an avid learner and constantly improving my skills. Two words that describe me: Hard-worker and flexible. 
+I'm a mobile and fron-end developer, passionate about technologies and problem solving. I enjoy to mix logic with creativity in my work. I'm an avid learner and constantly improving my skills. 
 
 
 
