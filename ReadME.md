@@ -30,7 +30,7 @@ For my graduation project, I worked on presenting an ML solution to optimize the
 	 - developed using React-Native and Firebase. ( [find it here](https://github.com/deGhost/ToDo-AndroidApp-React-Native))
 
 
-## <img src="https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Development-512.png" width="30" /> Web developement
+## <img src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" width="30" /> Web developement
  - Laravel Blog:  
    -  developed using PHP framework and MongoDB API. ([find it here](https://github.com/deGhost/Laravel-Blog))
  -   Weather App: 
