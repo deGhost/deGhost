@@ -34,7 +34,7 @@ For my graduation project, I worked on presenting an ML solution to optimize the
  - Laravel Blog:  
    -  developed using PHP framework and MongoDB API. ([find it here](https://github.com/deGhost/Laravel-Blog))
  -   Weather App: 
-	 - developed using React-Native and Firebase. ([find it here ](https://github.com/deGhost/Weather-App-))
+	 - developed using ReactJS and Weather API. ([find it here ](https://github.com/deGhost/Weather-App-))
 - Note taking: 
 	- a simple MERN app. ([find it here ](https://github.com/deGhost/Note_Taking_Mern)) 
 
