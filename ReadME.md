@@ -44,7 +44,7 @@ For my graduation project, I worked on presenting an ML solution to optimize the
 
 # <img src="https://cdn.pixabay.com/photo/2016/10/10/01/49/leave-1727488_960_720.png" width="40" /> Creating content online
 ## <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" width="30" /> Youtube
-I believe that the best way to learn something is to teach it. For this reason I created a Youtube channel where I share programming related topics that I recently learned or I'm currently learning.  [Check my channel here!](https://www.youtube.com/channel/UCOilWFnZq8VitNeABQpzOGQ)
+I believe that the best way to learn something is to teach it. For this reason I created a Youtube channel where I share programming related topics that I recently learned or I'm currently learning.  
 
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" width="30" /> Medium
