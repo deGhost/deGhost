@@ -50,13 +50,9 @@ I believe that the best way to learn something is to teach it. For this reason I
 ## <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" width="30" /> Medium
 Writing technical and programming related articles on the famous blog website. [My blog!](https://medium.com/@codewithlek)
 
-
-
-
 # <img src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_hyper_link_web_chain_connect-512.png" width="40" /> Find me on Social Media
 ### <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="30" /> [LinkedIn](https://www.linkedin.com/in/sara-hamlili/)
 
-### <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" width="30" /> [Twitter](https://twitter.com/CodeWithLek)
 
-### <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="30" /> [Instagram](https://www.instagram.com/codewithlek/)
+
 
