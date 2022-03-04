@@ -1,7 +1,7 @@
 
 
 # <img src="https://cdn.pixabay.com/photo/2018/08/10/11/08/blog-3596548_960_720.png" width="70" /> Sara's Portfolio
-I'm a mobile and fron-end developer, passionate about technologies and problem solving. I enjoy to mix logic with creativity in my work. I'm an avid learner and constantly improving my skills. 
+Broadly skilled software engineer with +4 years Android development. I can build responsive, accessible, custom UI with modern techniques(ReactJS) and develop in Java and Python environments.  
 
 
 
@@ -13,8 +13,10 @@ For my final year project, I developed an Android app "WiStudy" for facilating e
 
 
 ## Master's degree in Computer Science
-I specialized in data bases. During two years, I learned about data transformation, data integration using different technologies (Talend, SparQL, PostgreSQL...etc.), also about Cloud computing and Machine learning for Image processing.
-For my graduation project, I worked on presenting an ML solution to optimize the security of IoT routing protocol by integrating Trust Management. 
+I specialized in data bases. During two years, I learned about data extraction using different technologies (Talend, SparQL, PostgreSQL...etc.), also about Cloud computing and Machine learning for Image processing.
+
+For my graduation project, I worked on presenting an ML solution to optimize the security of IoT routing protocol by integrating Trust Management.
+Refer to our paper: https://ieeexplore.ieee.org/document/9628947
 
 
 
@@ -23,18 +25,17 @@ For my graduation project, I worked on presenting an ML solution to optimize the
 
 ## <img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/android-2-512.png" width="30" /> Mobile developement
  - Movie finder app:  
-   -  developed using React-Native and MovieDB API. ( [find it here](https://github.com/deGhost/findMyMovies))
- -   Duaa app: 
-	 - developed using React-Native and Firebase. (find it here)
+   -  developed using Java and MovieDB API. ( [find it here](https://github.com/deGhost/MoviesApp))
 -   whatTodo: 
 	 - developed using React-Native and Firebase. ( [find it here](https://github.com/deGhost/ToDo-AndroidApp-React-Native))
 
 
 ## <img src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" width="30" /> Web developement
+
+ - Plants E-Commerce Website:  
+   -  developed a front/end website using ReactJS. ([find it here](https://github.com/deGhost/la-maison-jungle))
  - Laravel Blog:  
-   -  developed using PHP framework and MongoDB API. ([find it here](https://github.com/deGhost/Laravel-Blog))
- -   Weather App: 
-	 - developed using ReactJS and Weather API. ([find it here ](https://github.com/deGhost/Weather-App-))
+   -  developed a fullstack blog using PHP framework and MongoDB API. ([find it here](https://github.com/deGhost/Laravel-Blog))
 - Note taking: 
 	- a simple MERN app. ([find it here ](https://github.com/deGhost/Note_Taking_Mern)) 
 
@@ -52,7 +53,7 @@ Writing technical and programming related articles on the famous blog website. [
 
 # <img src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_hyper_link_web_chain_connect-512.png" width="40" /> Find me on Social Media
 ### <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" width="30" /> [LinkedIn](https://www.linkedin.com/in/sara-hamlili/)
-
+### <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png" width="30" /> [Twitter](https://www.twitter.com/SaraliDev/)
 
 
 
