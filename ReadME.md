@@ -32,10 +32,12 @@ Refer to our paper: https://ieeexplore.ieee.org/document/9628947
 
 ## <img src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" width="30" /> Web developement
 
- - Plants E-Commerce Website:  
+ - Plants e-commerce website:  
    -  developed a front/end website using ReactJS. ([find it here](https://github.com/deGhost/la-maison-jungle))
  - Laravel Blog:  
    -  developed a fullstack blog using PHP framework and MongoDB API. ([find it here](https://github.com/deGhost/Laravel-Blog))
+ - Online photos gallery Website:  
+   -  developed a front/end website using ReactJS and Firebase for backend. ([find it here](https://github.com/deGhost/OurPhotos))
 - Note taking: 
 	- a simple MERN app. ([find it here ](https://github.com/deGhost/Note_Taking_Mern)) 
 
